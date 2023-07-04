@@ -90,4 +90,14 @@ final class DeploymentCheckRunCell: UITableViewCell, Bindable {
     }
 }
 fdmkmvlfdmvlkmdflkvdkmkvdfvfdvfdvdfvdffffvgbgf
+
+Yes
+Strict class dnjkcnldsmc
+Dcmlksdmcl;s
+Dcmdslcmsldmcs
+
+
+
+
+Cdmksmclkdsdc
 BFF
